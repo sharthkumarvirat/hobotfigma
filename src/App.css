@@ -1,0 +1,11 @@
+.contentMain {
+    background-image: url('./images/Rectangle.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.customFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
